@@ -1,8 +1,6 @@
 - SylphicXen
-- She/Her
-- Born 2000 (22 years old)
-- Primarily learning C++, Python, and C#
-- I can be reached on Discord (SylphicXen#3192)
+- Primarily learning C++, Python, JavaScript, and C#
+- I can be reached on Discord (SylphicXen)
 
 <!---
 SylphicXen/SylphicXen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
